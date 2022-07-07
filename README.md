@@ -6,4 +6,9 @@ Implemented with Vue3 and TypeScript
 
 Source code is private for now.
 
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, See LICENSE file.
+
+This is an example of a calculator and there is no claim of accuracy or correctness. 
+DO NOT USE THIS SOFTWARE FOR ANY PURPOSE OTHER THAN EVALUATION.
 
